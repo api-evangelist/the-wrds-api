@@ -1,0 +1,41 @@
+{
+    "name": "The Wrds API",
+    "description": "Makkelijk woordjes leren. Wrts is een online overhoorprogramma. Voer je woordjes in en laat je overhoren.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2208-the-wrds-api.jpg",
+    "tags": [
+        "have api",
+        "marketplaces",
+        "netherlands"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/the-wrds-api\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "The Wrds API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2208-the-wrds-api.jpg",
+            "humanURL": "http:\/\/www.wrts.nl\/colofon\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/the-wrds-api-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/wrts"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.wrts.nl\/colofon\/api"
+        }
+    ]
+}
